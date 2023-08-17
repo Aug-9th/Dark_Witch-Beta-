@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - Ground
+  - Effect
+  - EnemyBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Bullet
+  - Effect
+  - EnemyBullet
+  - EnemyHitBox
+  - PlayerHitbox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background1
+    uniqueID: 3205690695
+    locked: 0
+  - name: Background2
+    uniqueID: 2955908119
+    locked: 0
+  - name: Background3
+    uniqueID: 3771383679
+    locked: 0
+  - name: Object_in_BG
+    uniqueID: 1648126685
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Effect
+    uniqueID: 53650453
+    locked: 0
