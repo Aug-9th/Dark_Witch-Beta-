@@ -13,7 +13,6 @@ public class PauseMenu : MonoBehaviour
     private void Start()
     {
         Time.timeScale = 1;
-        pauseBtn.onClick.AddListener(Pause);
     }
     private void Update()
     {
@@ -40,7 +39,6 @@ public class PauseMenu : MonoBehaviour
     public void Pause()
     {
         //PauseMenuUI.SetActive(true);
-        Debug.Log("Test");
         Time.timeScale = 0f;
         isPause = true;
     }
